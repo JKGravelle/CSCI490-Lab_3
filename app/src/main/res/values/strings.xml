@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">Lab_03</string>
     <string name="action_settings">Settings</string>
+    <string name="app_name">Lab_03</string>
+    <string-array name="myClasses">
+        <item>Japanese 314</item>
+        <item>UI Design</item>
+        <item>CITA Capstone</item>
+        <item>Art and Architecture of Japan</item>
+        <item>Japanese 290</item>
+        <item>Printmaking II</item>
+    </string-array>
+
 </resources>
